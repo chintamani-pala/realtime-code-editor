@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "start": "npm build && node server.js",
-    "backend": "node server.js"
+    "server": "node server.js"
   },
   "dependencies": {
     "@monaco-editor/react": "^4.6.0",
